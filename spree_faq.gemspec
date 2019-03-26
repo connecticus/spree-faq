@@ -21,9 +21,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.has_rdoc = false
-
-  s.add_runtime_dependency 'spree_core', '~> 3.6.4'
+  s.add_runtime_dependency 'spree_core', '~> 3.7'
 
   s.add_development_dependency 'rspec-rails', '~> 3.3.0'
   s.add_development_dependency 'capybara', '~> 2.4'

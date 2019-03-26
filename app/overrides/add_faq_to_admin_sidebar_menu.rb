@@ -4,3 +4,4 @@ Deface::Override.new(
   insert_bottom: '#main-sidebar',
   partial:       'spree/admin/shared/faq_main_menu'
 )
+
