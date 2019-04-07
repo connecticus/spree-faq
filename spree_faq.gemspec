@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version       = SpreeFaq.version
   s.summary       = 'Adds an easy FAQ page for Spree Commerce'
   s.description   = s.summary
-  s.required_ruby_version = '>= 2.4.5'
+  s.required_ruby_version = '>= 2.3'
 
   s.authors      = ['Josh Nussbaum', 'Tobias Bohwalli']
   s.email        = 'hi@futhr.io'
